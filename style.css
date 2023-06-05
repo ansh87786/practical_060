@@ -1,0 +1,11 @@
+#h{
+    background-color: aqua;
+}
+body{
+    background-image: linear-gradient(red,yellow);
+}
+.image{
+    width: 350px;
+    height: 350px;
+    background-color: yellow;
+}
